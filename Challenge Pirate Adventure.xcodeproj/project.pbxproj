@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C0508401BBDCCAF001C01B2 /* CCTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C05083F1BBDCCAF001C01B2 /* CCTest.m */; settings = {ASSET_TAGS = (); }; };
 		4C2573EB1BBDC81400ED22D4 /* CCArmor.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C2573EA1BBDC81400ED22D4 /* CCArmor.m */; settings = {ASSET_TAGS = (); }; };
 		4C40C32D1B973A9D00E2D2EB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C40C32C1B973A9D00E2D2EB /* main.m */; };
 		4C40C3301B973A9F00E2D2EB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C40C32F1B973A9F00E2D2EB /* AppDelegate.m */; };
@@ -44,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4C05083E1BBDCCAF001C01B2 /* CCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTest.h; sourceTree = "<group>"; };
+		4C05083F1BBDCCAF001C01B2 /* CCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTest.m; sourceTree = "<group>"; };
 		4C2573E91BBDC81400ED22D4 /* CCArmor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCArmor.h; sourceTree = "<group>"; };
 		4C2573EA1BBDC81400ED22D4 /* CCArmor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCArmor.m; sourceTree = "<group>"; };
 		4C40C3271B973A9D00E2D2EB /* Challenge Pirate Adventure.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Challenge Pirate Adventure.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -192,6 +195,8 @@
 				4CDE75441B9B305600D1CE6B /* CCCharacter.m */,
 				4C2573E91BBDC81400ED22D4 /* CCArmor.h */,
 				4C2573EA1BBDC81400ED22D4 /* CCArmor.m */,
+				4C05083E1BBDCCAF001C01B2 /* CCTest.h */,
+				4C05083F1BBDCCAF001C01B2 /* CCTest.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -316,6 +321,7 @@
 				4CDE75451B9B305600D1CE6B /* CCCharacter.m in Sources */,
 				4C40C32D1B973A9D00E2D2EB /* main.m in Sources */,
 				4C40C36A1B973FAB00E2D2EB /* CCTile.m in Sources */,
+				4C0508401BBDCCAF001C01B2 /* CCTest.m in Sources */,
 				4CDE753F1B9B302200D1CE6B /* CCWeapon.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
